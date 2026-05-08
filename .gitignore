@@ -1,0 +1,14 @@
+# Private keys and certificates — NEVER commit these
+attack-scripts/keys/
+*.key
+*.pem
+
+
+# OS junk
+.DS_Store
+Thumbs.db
+*~
+
+# Editor folders
+.vscode/
+.idea/
