@@ -234,7 +234,7 @@ cp /path/to/amf.pem keys/
 | Lakhdari Anis Charef Eddine |
 | Bouchemlla Mohammed |
 
-**Supervisor:** Mr. Fayssal Bendaoud — ESI SBA, Sidi Bel-Abbès[cite: 1]
+**Supervisor:** Mr. Fayssal Bendaoud — ESI SBA, Sidi Bel-Abbès
 
 ## ⚠️ Disclaimer
 
