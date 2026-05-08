@@ -230,10 +230,9 @@ cp /path/to/amf.pem keys/
 
 | Name | Role |
 |---|---|
-| Nessal Zakaria Rachid | SBA vulnerability research & audit scripting |
-| Lakhdari Anis | AMF/PCF DoS analysis & CVE documentation |
-| Bouchemlla Mohammed | Lab environment & attack chain design |
-
+| Nessal Zakaria Rachid
+| Lakhdari Anis Charef Eddine
+| Bouchemlla Mohammed 
 **Supervisor:** Mr. Fayssal Bendaoud — ESI SBA, Sidi Bel-Abbès
 
 ---
