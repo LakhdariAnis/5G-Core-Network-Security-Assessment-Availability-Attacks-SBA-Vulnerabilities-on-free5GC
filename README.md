@@ -228,7 +228,6 @@ cp /path/to/amf.pem keys/
 
 ## 👥 Authors
 
-| Name 
 |------
 | Nessal Zakaria Rachid
 | Lakhdari Anis Charef Eddine
