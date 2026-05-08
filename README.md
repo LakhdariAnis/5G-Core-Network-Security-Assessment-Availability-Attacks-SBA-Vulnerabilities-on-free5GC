@@ -228,8 +228,8 @@ cp /path/to/amf.pem keys/
 
 ## 👥 Authors
 
-| Name | Role |
-|---|---|
+| Name 
+|------
 | Nessal Zakaria Rachid
 | Lakhdari Anis Charef Eddine
 | Bouchemlla Mohammed 
