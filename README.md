@@ -228,13 +228,13 @@ cp /path/to/amf.pem keys/
 
 ## 👥 Authors
 
-|------
-| Nessal Zakaria Rachid
-| Lakhdari Anis Charef Eddine
-| Bouchemlla Mohammed 
-**Supervisor:** Mr. Fayssal Bendaoud — ESI SBA, Sidi Bel-Abbès
+| Name |
+| :--- |
+| Nessal Zakaria Rachid |
+| Lakhdari Anis Charef Eddine[cite: 1] |
+| Bouchemlla Mohammed |
 
----
+**Supervisor:** Mr. Fayssal Bendaoud — ESI SBA, Sidi Bel-Abbès[cite: 1]
 
 ## ⚠️ Disclaimer
 
