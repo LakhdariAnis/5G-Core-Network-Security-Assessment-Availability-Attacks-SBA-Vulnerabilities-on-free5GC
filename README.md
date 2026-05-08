@@ -231,7 +231,7 @@ cp /path/to/amf.pem keys/
 | Name |
 | :--- |
 | Nessal Zakaria Rachid |
-| Lakhdari Anis Charef Eddine[cite: 1] |
+| Lakhdari Anis Charef Eddine |
 | Bouchemlla Mohammed |
 
 **Supervisor:** Mr. Fayssal Bendaoud — ESI SBA, Sidi Bel-Abbès[cite: 1]
